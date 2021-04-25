@@ -3,12 +3,6 @@ This repository covers details and documents about the roblox game **[SCPF] Deta
 
 # Index
 
-* SCP-List
-  * Number 1
-  * Number 2  
-* https://github.com/AndyPuettmann/SCPF-DACA-12/tree/main/Divisions
-  * Science
-  * Security
-  * Mobile Task Force
-  * Medical
-  * Engineering & Technical
+* [SCP-List](https://github.com/AndyPuettmann/SCPF-DACA-12/tree/main/SCP)
+* [Divisions](https://github.com/AndyPuettmann/SCPF-DACA-12/tree/main/Divisions)
+
