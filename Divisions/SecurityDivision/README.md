@@ -2,33 +2,35 @@ The Security Department is made up of individuals who are dedicated to protectin
 
 -------------------------------------------------------------------------------
 
-Positions/Posts:
+# Positions/Posts:
 
-SD-1: Inside of the Red Lined area inside the CDCZ
-SD-2: Above the CDCZ inside the passage way to the Riot Alarm
-SD-3: Next to the CD transfer, inside the CDC (Not the CDCZ)
-SD-4: Outside the CDC
-CP-1: Inside S-2, next to the Airlock
-PT-1: Patrol Team, sweeping Sector - 2
-PT-2: Outside the Facility
-CI-1: Near the CI Breach Tunnel
-CI-2: Inside the Facility, near Gate-A
-
--------------------------------------------------------------------------------
-
-Uniform Code:
-
-Trainee - Agent: Uniform with NO red arm bands | Helmet with Black Eyes | SD Armour
-Sergeant: Uniform with NO red arm bands | Helmet with Green Eyes | SD Armour
-Officer: Uniform with ONE red arm band | Helmet with Blue Eyes | SD Uniform
-Lieutenant - Captain: Uniform with TWO red arm bands | Helmet with Dark Red eyes | SD Armour
-Assistant Director: Uniform with TWO red arm bands | Helmet with Yellow Eyes | SD Armour
-Director: Uniform with TWO red arm bands | Helmet with Purple Eyes | SD Armour
-Overseer: Any Uniform (Can be their own) | Helmet with Light Red eyes (Optional) | SD Armour (Optional)
+**SD-1:** Inside of the Red Lined area inside the CDCZ
+**SD-2:** Above the CDCZ inside the passage way to the Riot Alarm
+**SD-3:** Next to the CD transfer, inside the CDC (Not the CDCZ)
+**SD-4:** Outside the CDC
+**CP-1:** Inside S-2, next to the Airlock
+**PT-1:** Patrol Team, sweeping Sector - 2
+**PT-2:** Outside the Facility
+**CI-1:** Near the CI Breach Tunnel
+**CI-2:** Inside the Facility, near Gate-A
 
 -------------------------------------------------------------------------------
 
-Code of Security:
+# Uniform Code:
+
+**Rank** | **Body** | **Helmet** | **Armour**
+---------- | -------- | ---------- | ----------
+**Trainee - Agent** | Uniform with NO red arm bands | Helmet with Black Eyes | SD Armour
+**Sergeant** | Uniform with NO red arm bands | Helmet with Green Eyes | SD Armour
+**Officer** | Uniform with ONE red arm band | Helmet with Blue Eyes | SD Uniform
+**Lieutenant - Captain** | Uniform with TWO red arm bands | Helmet with Dark Red eyes | SD Armour
+**Assistant Director** | Uniform with TWO red arm bands | Helmet with Yellow Eyes | SD Armour
+**Director** | Uniform with TWO red arm bands | Helmet with Purple Eyes | SD Armour
+**Overseer** | Any Uniform (Can be their own) | Helmet with Light Red eyes (Optional) | SD Armour (Optional)
+
+-------------------------------------------------------------------------------
+
+# Code of Security:
 
 Class - D/C/E Termination will only occur when the Class - D/C/E is miss-behaving (e.g Continuously crossing the Red Lined Area or Shooting their weapon at other Class - D/C/E or any other Personnel). Class - D/C/E personnel will be issued with ONE warning if they cross the line, if they cross again, you are able to Terminate the Class - D/C/E that was doing this. If the Class - D/C/E has been Terminated more than THREE times, you are able to put the Class - D/C/E inside of Solitary Confinement.
 
@@ -44,7 +46,7 @@ If there are more than THREE Chaos Insurgency operatives, Security must escort a
 
 -------------------------------------------------------------------------------
 
-Briefing Template:
+# Briefing Template:
 
 Things you must cover in your Brief;
 
@@ -57,7 +59,7 @@ Once the Brief is over, you must say to the ScD 'All yours' as they might want t
 
 -------------------------------------------------------------------------------
 
-Who can tell you what to do?
+# Who can tell you what to do?
 
 Trainee - Agent: Cannot tell anyone what to do
 Sergeant: Can tell Agent- what they can do
@@ -70,7 +72,7 @@ Overseer: Can tell anyone within Security what they can do and where to post
 
 -------------------------------------------------------------------------------
 
-Rule Breaking:
+# Rule Breaking:
 
 Miss-Behaving Security Department operatives will receive a Demotion and given an interrogation by an Officer+. 
 If a Security Department operative kills any Foundation Personnel without proper reason will be Class - E'd and Exiled from Security.
