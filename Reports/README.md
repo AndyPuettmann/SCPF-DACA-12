@@ -1,9 +1,9 @@
 # Reports
-
-## Header 1
+These documents will log Class-D terminations,Breaches,And Site occurrences. 
+## Class-d Terminations
 Content
 
-## Header 2
+## Breach Logs
 Content
 
-## Header 3
+## Site occurrences
