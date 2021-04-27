@@ -47,7 +47,6 @@ REDACTED   | Top Secret         | L5        | You do not want to go there
 
 * Cafeteria ![Cafeteria](/Facility/s1-cafeteria.png)
 * Conference Room ![Conference Room](/Facility/s1-conferenceroom.png)
-* Control Room ![CR](/Facility/s1-cr.png)
 * Cyberlab ![Cyberlab](/Facility/s1-cyberlab.png)
 * Ethics Commitee ![EC](/Facility/s1-ec.png)
 * Enigneering ![E&T](/Facility/s1-engineering.png)
