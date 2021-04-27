@@ -3,6 +3,6 @@ This repository covers details and documents about the roblox game **[SCPF] Deta
 
 # Index
 
-* [SCP-List](https://github.com/AndyPuettmann/SCPF-DACA-12/tree/main/SCP)
-* [Divisions](https://github.com/AndyPuettmann/SCPF-DACA-12/tree/main/Divisions)
+* [SCP-List](/SCP/README.md)
+* [Groups](/Groups/README.md)
 
