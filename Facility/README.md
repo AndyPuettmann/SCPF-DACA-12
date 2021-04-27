@@ -10,6 +10,7 @@ Each sector has only a single connection to the sector above and below. To reach
 
 # Map
 
+![Map](/Facility/map-overview.png)
 
 
 

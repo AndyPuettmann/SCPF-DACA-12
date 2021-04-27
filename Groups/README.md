@@ -1,10 +1,15 @@
-# Divisons
+# Groups
 
-The SCPF consists of various divisions that have their own duties and tasks.
+The SCPF consists of various divisions and user groups that have their own duties and tasks.
 
-Click on the divisions to see their guidelines and information:
+# Facility Employees
 * Science
-* [Security Division](https://github.com/AndyPuettmann/SCPF-DACA-12/tree/main/Divisions/SecurityDivision)
-* [Mobile Task Force](https://github.com/AndyPuettmann/SCPF-DACA-12/tree/main/Divisions/Mobile%20Task%20Force)
+* [Security Division](/Groups/SecurityDivision.md)
+* [Mobile Task Force](/Groups/MTF.md)
 * Medical
 * Engineering & Technical
+
+# Other
+* D Class
+* Chaos Insurgency
+* Un-Authorized 
