@@ -6,3 +6,4 @@ This repository covers details and documents about the roblox game **[SCPF] Deta
 * [SCP-List](/SCP/README.md)
 * [Groups](/Groups/README.md)
 * [Facility](/Facility/README.md)
+* [Reports](/Reports/README.md)
