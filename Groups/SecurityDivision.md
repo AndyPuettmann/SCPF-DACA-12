@@ -1,18 +1,24 @@
-The Security Department is made up of individuals who are dedicated to protecting The Foundation. Security Department operatives keep the Class - D/C/E personnel in line - making sure they do not escape from their Containment Zone, stopping Breaches from happening and Protecting the Facility from Chaos Insurgency.
+# Security Department
+
+The Security Department is made up of individuals who are dedicated to protecting The Foundation. Security Department Operatives are to keep Class - D/C/E personnel inside the CDCZ aswell as protecting the Facility from Breaches and Chaos Insurgency.
+
+Roblox group to join: [SCPF Security](https://www.roblox.com/groups/3018052)
+Applications: on Discord
+
 
 -------------------------------------------------------------------------------
 
 # Positions/Posts:
 
-**SD-1:** Inside of the Red Lined area inside the CDCZ
-**SD-2:** Above the CDCZ inside the passage way to the Riot Alarm
-**SD-3:** Next to the CD transfer, inside the CDC (Not the CDCZ)
-**SD-4:** Outside the CDC
-**CP-1:** Inside S-2, next to the Airlock
-**PT-1:** Patrol Team, sweeping Sector - 2
-**PT-2:** Outside the Facility
-**CI-1:** Near the CI Breach Tunnel
-**CI-2:** Inside the Facility, near Gate-A
+* **SD-1:** Inside of the Red Lined area inside the CDCZ
+* **SD-2:** Above the CDCZ inside the passage way to the Riot Alarm
+* **SD-3:** Next to the CD transfer, inside the CDC (Not the CDCZ)
+* **SD-4:** Outside the CDC
+* **CP-1:** Inside S-2, next to the Airlock
+* **PT-1:** Patrol Team, sweeping Sector - 2
+* **PT-2:** Outside the Facility
+* **CI-1:** Near the CI Breach Tunnel
+* **CI-2:** Inside the Facility, near Gate-A
 
 -------------------------------------------------------------------------------
 
