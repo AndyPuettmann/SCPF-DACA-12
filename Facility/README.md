@@ -23,37 +23,25 @@ Each sector has only a single connection to the sector above and below. To reach
 
 Sector 1 is the employee sector, and has the followng rooms:
 
-Map-Label  | Full Name          | Clearance | Purpose
----------- | ------------------ | --------- | ---------
-Gate-A     | Gate A             | Level 4   | Exit to village
-FP         | ?                  |           | 
-Cameras    | Surveillance Room  |           | 
-Cafeteria  | Cafeteria          | Level ?   | 
-ISD        | Internal Security  |           | Armory for Internal Security
-RC         | Riot Control       |           | Armory for Riot Control
-SD         | Security Division  |           | Armory for Security Division
-L2-Break   | Level 2 Break Room |           | Level 2+ bar
-Conference | Conference Room    |           | Talk, Debate...
-Control    | Control room       | L5 / MTF  | Control doors, alerts and stuff
-MD         | Medical Bay        |           | SCP-500 is stored here
-IA&DEA     | Internal Divisons  |           | Internal+external affairs
-EC         | Ethics Commmitee   |           | Office of Ethics Commitee
-E&T        | Engineering/Tech   |           | Engineering and technical spawn
-ScD        | Science Division   |           | Science Division spawn
-REDACTED   | Top Secret         | L5        | You do not want to go there
-
-
-## Pictures
-
-### Cafeteria ![Cafeteria](/Facility/s1-cafeteria.png)
-### Conference Room ![Conference Room](/Facility/s1-conferenceroom.png)
-### Cyberlab ![Cyberlab](/Facility/s1-cyberlab.png)
-### Ethics Commitee ![EC](/Facility/s1-ec.png)
-### Enigneering ![E&T](/Facility/s1-engineering.png)
-### Internal Affairs & Department of External Affairs ![IA&DEA](/Facility/s1-ia.png)
-### Level-2-Break-Room ![L2-Break](/Facility/s1-L2-break.png)
-### Medbay ![MD](/Facility/s1-medbay.png)
-### Security Division Armory ![SD](/Facility/s1-sd-armory.png)
+Map-Label  | Full Name          | Clearance | Purpose                            | Picture
+---------- | ------------------ | --------- | ---------------------------------- | -------
+Gate-A     | Gate A             | Level 4   | Exit to village                    | 
+FP         | ?                  |           |                                    | 
+Cameras    | Surveillance Room  |           |                                    | 
+Cafeteria  | Cafeteria          | Level ?   |                                    | ![Cafeteria](/Facility/s1-cafeteria.png)
+ISD        | Internal Security  |           | Armory for Internal Security       | 
+RC         | Riot Control       |           | Armory for Riot Control            | 
+SD         | Security Division  |           | Armory for Security Division       | ![SD](/Facility/s1-sd-armory.png)
+L2-Break   | Level 2 Break Room |           | Level 2+ bar                       | ![L2-Break](/Facility/s1-L2-break.png)
+Cyberlab   |                    |           |                                    | ![Cyberlab](/Facility/s1-cyberlab.png)
+Conference | Conference Room    |           | Talk, Debate...                    | ![Conference Room](/Facility/s1-conferenceroom.png)
+Control    | Control room       | L5 / MTF  | Control doors, alerts and stuff    | 
+MD         | Medical Bay        |           | SCP-500 is stored here             | ![MD](/Facility/s1-medbay.png)
+IA&DEA     | Internal Divisons  |           | Internal+external affairs          | ![IA&DEA](/Facility/s1-ia.png)
+EC         | Ethics Commmitee   |           | Office of Ethics Commitee          | ![EC](/Facility/s1-ec.png)
+E&T        | Engineering/Tech   |           | Engineering and technical spawn    | ![E&T](/Facility/s1-engineering.png)
+ScD        | Science Division   |           | Science Division spawn             | 
+REDACTED   | Top Secret         | L5        | You do not want to go there        | 
 
 
 
