@@ -23,26 +23,26 @@ Each sector has only a single connection to the sector above and below. To reach
 
 Sector 1 is the employee sector, and has the followng rooms:
 
-Map-Label  | Full Name          | Clearance | Purpose                            | Picture
----------- | ------------------ | --------- | ---------------------------------- | -------
-Gate-A     | Gate A             | Level 4   | Exit to village                    | 
-FP         | ?                  |           |                                    | 
-Cameras    | Surveillance Room  |           |                                    | 
-Cafeteria  | Cafeteria          | Level ?   |                                    | ![Cafeteria](/Facility/s1-cafeteria.png)
-ISD        | Internal Security  |           | Armory for Internal Security       | 
-RC         | Riot Control       |           | Armory for Riot Control            | 
-SD         | Security Division  |           | Armory for Security Division       | ![SD](/Facility/s1-sd-armory.png)
-L2-Break   | Level 2 Break Room |           | Level 2+ bar                       | ![L2-Break](/Facility/s1-L2-break.png)
-Cyberlab   | Cyberlab           |           | Virus removal station              | ![Cyberlab](/Facility/s1-cyberlab.png)
-Conference | Conference Room    |           | Talk, Debate...                    | ![Conference Room](/Facility/s1-conferenceroom.png)
-Control    | Control room       | L5 / MTF  | Control doors, alerts and stuff    | 
-MD         | Medical Bay        |           | SCP-500 is stored here             | ![MD](/Facility/s1-medbay.png)
-IA&DEA     | Internal Divisons  |           | Internal+external affairs          | ![IA&DEA](/Facility/s1-ia.png)
-EC         | Ethics Commmitee   |           | Office of Ethics Commitee          | ![EC](/Facility/s1-ec.png)
-E&T        | Engineering/Tech   |           | Engineering and technical spawn    | ![E&T](/Facility/s1-engineering.png)
-ScD        | Scientific Room    |           | Science Division spawn             | ![ScD](/Facility/s1-scientificroom.png)
-Office     | 05-Offices         |           | High-Command / Council office      | ![Office](/Facility/s1-office.png)
-REDACTED   | Top Secret         | L5        | You do not want to go there        | 
+Map-Label  | Full Name            | Clearance   | Purpose                            | Picture
+---------- | -------------------- | ----------- | ---------------------------------- | -------
+Gate-A     | Gate A               | L3          | Exit to village                    | 
+FP         | Foundation Personell | L0          |                                    | 
+Cameras    | Surveillance Room    | L5          |                                    | 
+Cafeteria  | Cafeteria            | L0          |                                    | ![Cafeteria](/Facility/s1-cafeteria.png)
+ISD        | Internal Security    | L4 / Armory | Armory for Internal Security       | 
+RC         | Riot Control         | L4 / Armory | Armory for Riot Control            | 
+SD         | Security Division    | L4 / Armory | Armory for Security Division       | ![SD](/Facility/s1-sd-armory.png)
+L2-Break   | Level 2 Break Room   | L2          | Level 2+ bar                       | ![L2-Break](/Facility/s1-L2-break.png)
+Cyberlab   | Cyberlab             | L2          | Virus removal station              | ![Cyberlab](/Facility/s1-cyberlab.png)
+Conference | Conference Room      | L1          | Talk, Debate...                    | ![Conference Room](/Facility/s1-conferenceroom.png)
+Control    | Control room         | L5 / MTF    | Control doors, alerts and stuff    | 
+MD         | Medical Bay          | L1          | SCP-500 is stored here             | ![MD](/Facility/s1-medbay.png)
+IA&DEA     | Internal Divisons    | L1          | Internal+external affairs          | ![IA&DEA](/Facility/s1-ia.png)
+EC         | Ethics Commmitee     | L1          | Office of Ethics Commitee          | ![EC](/Facility/s1-ec.png)
+E&T        | Engineering/Tech     | L1          | Engineering and technical spawn    | ![E&T](/Facility/s1-engineering.png)
+ScD        | Scientific Room      | L1          | Science Division spawn             | ![ScD](/Facility/s1-scientificroom.png)
+Office     | 05-Offices           | L1          | High-Command / Council office      | ![Office](/Facility/s1-office.png)
+REDACTED   | Top Secret           | L5          | You do not want to go there        | 
 
 
 
