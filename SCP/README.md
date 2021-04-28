@@ -2,7 +2,7 @@ SCP-Number                   | Nickname         | Type    | Level | Location
 ---------------------------- | ---------------- | ------- | ----- | --------
 [035](/SCP/SCP-035.md)       | Possessive Mask  | Safe    |   1   | Sector 2
 [037-FR](/SCP/SCP-037-FR.md) | ?                | ?       |   ?   | Sector 2
-[079](/SCP/SCP-079.md)       | ?                | ?       |   ?   | Sector 2
+[079](/SCP/SCP-079.md)       | Old AI           | Euclid  |   2   | Sector 2
 [173](/SCP/SCP-173.md)       | The Statue       | Euclid  |   2   | Sector 2
 [999](/SCP/SCP-999.md)       | Tickle Monster   | ?       |   ?   | Sector 2
 [1074](/SCP/SCP-1074.md)     | ?                | ?       |   ?   | Sector 2
