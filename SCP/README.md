@@ -26,9 +26,9 @@ SCP-Number                   | Nickname         | Type    | Level | Location
 - [X] Sector 2 - Index
 - [ ] Sector 2 - Create SCP descriptions
 - [X] Sector 2 - Add images
-- [ ] Sector 3 - Index
+- [X] Sector 3 - Index
 - [ ] Sector 3 - Create SCP descriptions
 - [ ] Sector 3 - Add images
-- [ ] Sector 4 - Index
+- [X] Sector 4 - Index
 - [ ] Sector 4 - Create SCP descriptions
 - [ ] Sector 4 - Add images
