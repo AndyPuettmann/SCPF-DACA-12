@@ -17,9 +17,9 @@ SCP-Number                   | Nickname         | Type    | Level | Location
 [017](/SCP/SCP-017.md)       | ?                | ?       |   ?   | Sector 3
 [2030](/SCP/SCP-2030.md)     | ?                | ?       |   ?   | Sector 3
 [1048](/SCP/SCP-1048.md)     | ?                | ?       |   ?   | Sector 3
-[096](/SCP/SCP-096.md)       | ?                | ?       |   ?   | Sector 4
-[939](/SCP/SCP-939.md)       | ?                | ?       |   ?   | Sector 4
-[106](/SCP/SCP-106.md)       | ?                | ?       |   ?   | Sector 4
+[096](/SCP/SCP-096.md)       | Shy Guy          | ?       |   ?   | Sector 4
+[939](/SCP/SCP-939.md)       | With Many Voices | ?       |   ?   | Sector 4
+[106](/SCP/SCP-106.md)       | Old Man          | ?       |   ?   | Sector 4
 
 
 # TODO
